@@ -376,7 +376,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 ## 📞 Support
 
 - **Telegram**: @VAA369
-- **Email**: support@enterprise-aa.com
+- **Email**: arturvojceh@gmail.com
 - **Documentation**: [docs.enterprise-aa.com](https://docs.enterprise-aa.com)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/enterprise-aa-platform/issues)
 
